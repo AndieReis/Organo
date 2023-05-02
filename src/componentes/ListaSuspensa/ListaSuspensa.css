@@ -1,0 +1,16 @@
+.lista-suspensa select{
+    background-color: #FFF;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    width: 100%;  /*vai ter 100% do container dele ou seja do formulário*/
+    border: none;
+    border-radius: 15px;;
+    font-size: 24px;
+    padding: 24px;
+    box-sizing: border-box;
+}
+
+.lista-suspensa label {
+    display: block; /*vai fazer o label ocupar a linha toda, ou seja, ficar acima do input*/
+    margin-bottom: 8px;
+    font-size: 24px;
+}

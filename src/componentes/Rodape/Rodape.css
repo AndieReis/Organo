@@ -1,0 +1,21 @@
+.footer {
+    background-color: #6278F7;
+    display: flex;
+    justify-content: space-around;
+    padding: 80px;
+    text-align: center;
+}
+
+.footer ul {
+    display: inline-block;
+    list-style-type: none; 
+}
+.footer ul li {
+    cursor: pointer;
+      
+}
+
+.footer p {
+    color: white;
+    font-size: 18px;
+}
